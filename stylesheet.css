@@ -1,0 +1,38 @@
+body {
+	background-color: #808080;
+}
+style {
+	margin: 0;
+	padding: 0;
+}
+.button {
+	width: 60;
+	height: 40;
+	font-size: 20;
+	margin-right: 2;
+	margin-bottom: 15;
+	cursor: pointer;
+}
+.main {
+	background: radial-gradient(circle at top right, #000000, #BF00FF);
+	width: 325;
+	height: 360;
+	padding: 20;
+	margin-left: 70;
+	border: 1px solid black;
+}
+.textview {
+	width: 258;
+	height: 40;
+	margin: 5;
+	font-size: 20;
+	padding: 5;
+	margin-bottom: 20;
+}
+.A {
+	width: 258;
+	height: 40;
+	font-size: 20;
+	padding: 5;
+	margin-bottom: 20;
+}
